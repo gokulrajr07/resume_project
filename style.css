@@ -1,0 +1,244 @@
+.first{
+  background-color: rgb(255, 255, 255);
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+#name{
+  color: red;
+}
+.root{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+#a{
+  background-color: red;
+  padding: 6px;
+  color: aliceblue;
+}
+.sec{
+  background-color: black;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#b{
+  color: wheat;
+}
+.thi{
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+#img{
+  border-radius: 50%;
+}
+.d{
+  padding: 60px;
+}
+#d5{
+  padding: 6px;
+  background-color: red;
+  color: azure;
+  display: flex;
+  width: 150px;
+  align-items: center;
+
+}
+.e{
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#img1{
+  position: relative;
+  text-align: center;
+  color: white;
+  margin-top: 200px;
+}
+.t1{
+  position: absolute;
+  color: rgb(255, 255, 255);
+  top:1px;
+  left: 605px;
+  
+}
+#t2{
+  position: absolute;
+  color: rgb(255, 255, 255);
+  top: 35px;
+  left: 500px;
+}
+#l1{
+  position: absolute;
+  color: white;
+}
+.ba{
+  position: absolute;
+  color: rgb(255, 255, 255);
+  top:0px;
+  left: 605px;
+}
+.box{
+  position:absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 200px;
+  left: 50px;
+  width: 250px;
+  height: 250px;
+  border: 1px solid white;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+}
+
+ #b1{
+  position: absolute;
+  top: 10px;
+  left: 85px;
+  border: 2px solid red;
+  background-color: red;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+ color: rgb(255, 255, 255);
+}
+.box2{
+  position:absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 200px;
+  left: 600px;
+  width: 250px;
+  height: 250px;
+  border: 1px solid white;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+}
+
+ #b2{
+  position: absolute;
+  top: 10px;
+  left: 95px;
+  border: 2px solid red;
+  background-color: red;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+ color: rgb(255, 255, 255);
+}
+.box3{
+  position:absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 200px;
+  left: 1200px;
+  width: 250px;
+  height: 250px;
+  border: 1px solid white;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+}
+
+ #b3{
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 10px;
+  left: 90px;
+  border: 2px solid red;
+  background-color: red;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+ color: rgb(255, 255, 255);
+}
+#bb1{
+  color: rgb(18, 17, 16);
+ 
+}
+#bb2{
+  color: rgb(18, 17, 16);
+ 
+}
+#bb3{
+  color: rgb(18, 17, 16);
+ 
+}
+.f{
+  position: absolute;
+  top: 1299px;
+  left: 10px;
+  width: 1500px;
+  background-color: rgb(125, 103, 103);
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.skills {
+	width: 100%;
+	background: white;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding-top: 12em;
+	padding-bottom: 3em;
+}
+#skills {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: nowrap;
+	gap: 1em;
+}
+#skills p {
+	font-size: 12px;
+}
+#skilll {
+	display: flex;
+	width: 100%;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 1em;
+}
+#skillr {
+	display: flex;
+	width: 100%;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 1em;
+}
+.prgrscnt {
+	height: 5px;
+	width: 400px;
+	background: grey;
+	margin-top: 5px;
+}
+.prgrsbr {
+	height: 5px;
+	width: 75%;
+	background: orangered;
+}
+
